@@ -1,1 +1,1 @@
-# brute-force-detection-lab
+# brute-force-detection-splunk
