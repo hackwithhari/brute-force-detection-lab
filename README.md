@@ -90,21 +90,15 @@ index=botsv3 EventCode=4625
 | where count > 5
 ```
 
----
-
 ## Conclusion
 
 This project demonstrates how brute-force attacks can be detected using log analysis and SIEM tools. It highlights the importance of monitoring authentication events, applying threshold-based detection, and enabling real-time alerting.
-
----
 
 ## Future Improvements
 
 * Implement machine learning-based anomaly detection
 * Integrate threat intelligence feeds
 * Automate incident response workflows
-
----
 
 ## Author
 
