@@ -54,19 +54,20 @@ This method helps reduce false positives by considering both frequency and time 
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](Dashboard.png)
-
-### Alert
-![Alert](Alert.png)
-
 ### Detection Result
 ![Detection Result](DetectionResult.png)
 
 ### System Analysis
 ![System Analysis](SystemAnalysis.png)
 
----
+### User Analysis
+![User Analysis](UserAnalysis.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Alert System
+![Alert](Alert.png)
 
 ## Project Structure
 
